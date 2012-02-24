@@ -1,5 +1,15 @@
-= cgrep =
+* cgrep *
 
 Contextual grep - Simple Python tool to search files and display lines surrounding matching expressions.
+
+It's a handy tool for browsing through a codebase and doing some quick searches.
+
+* Usage *
+
+Usage: python cgrep.py pattern [files]
+
+You must supply a search pattern and 1 or more files to search.
+
+
 
 
