@@ -1,0 +1,5 @@
+= cgrep =
+
+Contextual grep - Simple Python tool to search files and display lines surrounding matching expressions.
+
+
